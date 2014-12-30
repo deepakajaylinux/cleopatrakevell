@@ -1,0 +1,10 @@
+site_name: http://cleopatakevell.readthedocs.org
+include_search: true
+theme_dir: ./theme/mkdocs/
+theme_center_lead: false
+pages:
+- [index.md, Home]
+- [about.md, About]
+- [phlagrant.md, Introduction]
+- ["Getting Started.md", "Getting Started"]
+theme: ghostwriter
